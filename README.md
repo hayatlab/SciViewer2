@@ -37,6 +37,13 @@ Single Cell Interactive Viewer is an R shiny application that allows users to in
 - Custom R library
     * library(pddExpn) : Available in this repo
 
+- Set up R locally or on your R-server. 
+- Clone the repo and install all above-listed dependencies.
+- Run the applications as following
+
+```
+runApp(appDir = "/home/rstudio/scripts/SciViewerDev/SciViewer_V1/",launch.browser = T)
+```
 
 
 
