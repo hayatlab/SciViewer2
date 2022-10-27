@@ -24,12 +24,15 @@ Single Cell Interactive Viewer is an R shiny application that allows users to in
     * library(DT)
     * library(optparse)
     * library(gprofiler2)
+    * library(shinyjqui)
 - R data visualization libraries
     * library(highcharter)
     * library(plotly)
     * library(rasterly)
     * library(png)
     * library(heatmaply)
+    * library(markdown)
+    * library(ggvis)
 - R database libraries
     * library(RSQLite)
     * library(RMySQL)
